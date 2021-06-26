@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning UX/UI Design system (Fluent Design mostly)
 - ⚡ Fun fact: I love Coffee ☕
 
-![Oralita's github stats](https://github-readme-stats.vercel.app/api?username=oat431)
+![![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oat431)](https://git.io/streak-stats)
+
 ![Oralita's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=oat431&layout=compact)
