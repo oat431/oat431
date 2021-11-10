@@ -1,13 +1,20 @@
 ### Hi there I am Oat👋
 
 - 🔭 I’m currently working on My personal Project on Full Stack
-- 🌱 I’m currently learning UX/UI Design system (Fluent Design mostly)
 - ⚡ Fun fact: I love Coffee ☕
 
-<div align="center>
+### My skill so far
 
-[![Oralita](https://github-readme-streak-stats.herokuapp.com?user=oat431&theme=vue)](https://git.io/streak-stats)
+#### Hard skill
 
-![Oralita's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=oat431&layout=compact)
+| skill | list |
+|-------|------|
+| frontend | ![vue](https://img.shields.io/badge/vue-3-green) ![bts5](https://img.shields.io/badge/bootstrap-5-blueviolet) ![tw2](https://img.shields.io/badge/tailwind-2-informational) |
+| backend | ![spring-boot](https://img.shields.io/badge/spring--boot-2-green) ![laravel](https://img.shields.io/badge/laravel-8-red) ![express](https://img.shields.io/badge/express%20js-4-lightgrey)|
+| moblie | ![flutter](https://img.shields.io/badge/flutter-2-blue) |
+| DevOps | ![ec2](https://img.shields.io/badge/aws-ec2-important) ![rds](https://img.shields.io/badge/aws-rds-important) ![github action](https://img.shields.io/badge/github-action-inactive) ![docker](https://img.shields.io/badge/container-docker-informational) |
+| Database | ![mysql](https://img.shields.io/badge/MySQL-8.0-informational) |
 
-</div>
+#### Soft skill
+
+Origami, Fantasy talking, Questioning, Indy Music Listener, Meme Enjoyer, Politics Talking, Dank Story Talking, Coffee enjoyer
