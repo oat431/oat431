@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on My personal Project on Full Stack
 - ⚡ Fun fact: I love Coffee ☕
 
-### My skill so far
+### My skill so far 🤹‍♀️
 
 #### Hard skill
 
@@ -17,4 +17,8 @@
 
 #### Soft skill
 
-Origami, Fantasy talking, Questioning, Indy Music Listener, Meme Enjoyer, Politics Talking, Dank Story Talking, Coffee enjoyer
+#### 📃Origami, 🧛‍♂️Fantasy story teller, ❓Questioning, 
+
+#### 🎶Indy Music Listener, 🎭Meme Enjoyer, ⚖Politics Talking, 
+
+#### 🐱‍🏍Dank Story Talking, ☕Coffee enjoyer
