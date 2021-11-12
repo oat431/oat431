@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on My personal Project on Full Stack
 - ⚡ Fun fact: I love Coffee ☕
 
-### My skill so far 🤹‍♀️
+### My skill 🤹‍♀️
 
-#### Hard skill
+#### Hard skill 🛠
 
 | skill | list |
 |-------|------|
@@ -15,7 +15,7 @@
 | DevOps | ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![do](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![github action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
 | Database | ![mysql](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
 
-#### Soft skill
+#### Soft skill 👨‍🎨
 
 #### 📃Origami, 🧛‍♂️Fantasy story teller, ❓Questioning, 
 
