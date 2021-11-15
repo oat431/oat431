@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on My personal Project on Full Stack
 - ⚡ Fun fact: I love Coffee ☕
+- 🎓 SE student
 
 ### My skill 🤹‍♀️
 
@@ -17,6 +18,7 @@
 
 #### Soft skill 👨‍🎨
 
+```
 #### 📃Origami, 🧛‍♂️Fantasy story teller, ❓Questioning, 
 
 #### 🎶Indy Music Listener, 🎭Meme Enjoyer, ⚖Politics Talking, 
@@ -24,5 +26,6 @@
 #### 🐱‍🏍Dank Story Talking, ☕Coffee enjoyer
 
 ### Here my daily Status
+```
 
 ![daily status](https://github-readme-streak-stats.herokuapp.com/?user=oat431&theme=vue)
