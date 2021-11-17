@@ -19,13 +19,14 @@
 #### Soft skill 👨‍🎨
 
 ```
-#### 📃Origami, 🧛‍♂️Fantasy story teller, ❓Questioning, 
+📃Origami, 🧛‍♂️Fantasy story teller, ❓Questioning, 
 
-#### 🎶Indy Music Listener, 🎭Meme Enjoyer, ⚖Politics Talking, 
+🎶Indy Music Listener, 🎭Meme Enjoyer, ⚖Politics Talking, 
 
-#### 🐱‍🏍Dank Story Talking, ☕Coffee enjoyer
+🐱‍🏍Dank Story Talking, ☕Coffee enjoyer
 
-### Here my daily Status
 ```
+
+#### Here my daily Status
 
 ![daily status](https://github-readme-streak-stats.herokuapp.com/?user=oat431&theme=vue)
