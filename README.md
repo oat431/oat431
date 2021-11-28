@@ -1,8 +1,9 @@
 ### Hi there I am Oat👋
 
-- 🔭 I’m currently working on My personal Project on Full Stack
-- ⚡ Fun fact: I love Coffee ☕
-- 🎓 SE student
+- 🔭 I’m currently working on Very Huge project That I cannot mention in my profile
+- ⚡ Fun fact: I really love Coffee ☕
+- 🎓 3rd year SE student
+- ✏ now I am learning and practicing ` padas, numpy, graphql, devops, QA, testing`
 
 ### My skill 🤹‍♀️
 
