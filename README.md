@@ -31,3 +31,5 @@
 #### Here my daily Status
 
 ![daily status](https://github-readme-streak-stats.herokuapp.com/?user=oat431&theme=vue)
+
+&copy; Sahachan Tippimwong
