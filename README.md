@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Very Huge project That I cannot mention in my profile
 - ⚡ Fun fact: I really love Coffee ☕
 - 🎓 3rd year SE student
-- ✏ now I am learning and practicing ` padas, numpy, graphql, devops, QA, testing`
+- ✏ now I am learning and practicing ` Infomation Retrival, Advance Software Developement, QA, Testing and Maintaining`
 
 ### My skill 🤹‍♀️
 
