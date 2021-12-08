@@ -35,3 +35,5 @@
 ![daily status](https://github-readme-streak-stats.herokuapp.com/?user=oat431&theme=vue)
 
 &copy; Flower Oralita Panomete
+
+![](https://hit.yhype.me/github/profile?user_id=54722120)
