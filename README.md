@@ -1,8 +1,8 @@
 ### Hi there I am Oat👋
 
-- 🔭 I’m currently working on Very Huge project That I cannot mention in my profile
-- ⚡ Fun fact: I really love Coffee ☕
-- 🎓 3rd year SE student
+- 🔭 I’m currently working on University `Huge!!` project that I cannot mention here.
+- ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
+- 🎓 3rd year SE student (CMU)
 - ✏ now I am learning and practicing ` Infomation Retrival, Advance Software Developement, QA, Testing and Maintaining`
 
 ### My skill 🤹‍♀️
@@ -34,4 +34,4 @@
 
 ![daily status](https://github-readme-streak-stats.herokuapp.com/?user=oat431&theme=vue)
 
-&copy; Sahachan Tippimwong
+&copy; Flower Oralita Panomete
