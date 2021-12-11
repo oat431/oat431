@@ -1,4 +1,4 @@
-### Hi there I am Oat👋
+### Hi there I'm Oat👋
 
 - 🔭 I’m currently working on University `Huge!!` project that I cannot mention here.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
