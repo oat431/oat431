@@ -27,10 +27,10 @@
 🐱‍🏍Dank Story Talking, ☕Coffee enjoyer
 
 ```
-#### Here my fake trophy that look nice
+#### Here my fake trophy that look nice 🏆
 ![tropy](https://github-profile-trophy.vercel.app/?username=oat431&column=4&margin-w=15&margin-h=15)
 
-#### And here my daily Status
+#### And here my daily Status 🐾
 
 ![daily status](https://github-readme-streak-stats.herokuapp.com/?user=oat431&theme=vue)
 
