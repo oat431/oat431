@@ -6,10 +6,12 @@
 - ✏ now I am learning and practicing 
 ``` 
   📰 Infomation Retrival, 🛠 Advance Software Developement, 
+  
   ✅ Software QA, 🧪 Testing and Maintaining,
+  
   📱 Moblie Application, 🤖 Artificial Intelligence
   
-  (mostly the skill that I practicing is come from the course I (force to) enroll this semester)
+  👀 (mostly the skill that I practicing is come from the course I (force to) enroll this semester)
 
 ```
 
