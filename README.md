@@ -11,7 +11,7 @@
   
   📱 Moblie Application, 🤖 Artificial Intelligence
   
-  👀 (mostly the skill that I practicing is come from the course I (force to) enroll this semester)
+  👀 (The skill that I list above mostly come from the course that I need to enroll in this year)
 
 ```
 
