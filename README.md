@@ -1,8 +1,8 @@
 ### Hi there I'm Oat👋
 
-- 🔭 I’m currently working on University `Huge!!` project that I cannot mention here.
+- 🔭 I’m currently working on `Huge!!` University project that I cannot mention here.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
-- 🎓 3rd year SE student (CMU)
+- 🎓 3rd year SE student (CMU/CAMT)
 - ✏ now I am learning and practicing 
 ``` 
   📰 Infomation Retrival, 🛠 Advance Software Developement, 
