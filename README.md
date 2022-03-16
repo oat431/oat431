@@ -2,17 +2,12 @@
 
 - 🔭 I’m currently working on `Huge!!` University project that I cannot mention here.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
-- 🎓 3rd year SE student (CMU/CAMT)
+- 🎓 (soon to be) 4th year SE student (CMU/CAMT)
 - ✏ now I am learning and practicing 
 ``` 
-  📰 Infomation Retrival, 🛠 Advance Software Developement, 
-  
-  ✅ Software QA, 🧪 Testing and Maintaining,
-  
-  📱 Moblie Application, 🤖 Artificial Intelligence
-  
-  👀 (The skill that I list above mostly come from the course that I need to enroll in this year)
-
+  🛠 Advance Software Developement, ⚓ K8S, 🎨 UI, 📝 UX,
+  ❄ SOLID priciple, 🧹 clean coding, 🤵 clean coder,
+  🌵 Flexible Software Design
 ```
 
 ### My skill 🤹‍♀️
