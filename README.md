@@ -1,13 +1,18 @@
 ### Hi there I'm Oat👋
 
 - 🔭 I’m currently working on `Huge!!` University project that I cannot mention here.
+- 🔫 I'm Also working on `senior project` on helping viusally impaired surf the internet.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
-- 🎓 (soon to be) 4th year SE student (CMU/CAMT)
+- 🎓 4th year SE student (CMU/CAMT)
 - ✏ now I am learning and practicing 
 ``` 
+
   🛠 Advance Software Developement, ⚓ K8S, 🎨 UI, 📝 UX,
+  
   ❄ SOLID priciple, 🧹 clean coding, 🤵 clean coder,
+  
   🌵 Flexible Software Design
+  
 ```
 
 ### My skill 🤹‍♀️
