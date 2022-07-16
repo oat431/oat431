@@ -1,4 +1,4 @@
-### Hi there I'm Oat👋
+### Hi there I'm Oat👋 Full Stack Dev (Mostly Working on Backend)
 
 - 🔭 I’m currently working on `Huge!!` University project that I cannot mention here.
 - 🔫 I'm Also working on `senior project` on helping viusally impaired surf the internet.
