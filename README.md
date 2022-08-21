@@ -1,7 +1,7 @@
 ### Hi there I'm Oat👋 Full Stack Dev (Mostly Working on Backend)
 
 - 🔭 I’m currently working on `Huge!!` University project that I cannot mention here.
-- 🔫 I'm Also working on `senior project` on helping viusally impaired surf the internet.
+- 🔫 I'm Also working on [senior project](https://github.com/Transmatter) on helping viusally impaired surf the internet.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
 - 🎓 4th year SE student (CMU/CAMT)
 - ✏ now I am learning and practicing 
