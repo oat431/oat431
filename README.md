@@ -35,7 +35,9 @@
 
 📃Origami, 🧛‍♂️Fantasy story teller, ❓Questioning, 
 
-🎶Indy Music Listener, 🎭Meme Enjoyer, ⚖Politics Talking, 
+🎶Indy Music Listener, 🎼Alternative Rock Music Listener,
+
+🎭Meme Enjoyer, ⚖Politics Talking, 
 
 🐱‍🏍Dank Story Talking, ☕Coffee enjoyer, 📜Explainer
 
