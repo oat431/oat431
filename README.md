@@ -1,4 +1,4 @@
-### Hi there I'm Oat👋
+### Hi there I'm Oat 👋
 
 - ⚒  Full-Stack Developer (mostly working on backend) 
 - 🔭 I’m currently working on `Huge!!` University (as a part-time backend developer)
