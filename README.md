@@ -1,11 +1,11 @@
 ### Hi there I'm Oat 🌷
 
 - ⚒  Full-Stack Developer (mostly working on backend) 
-- 🔭 I’m currently working on `Huge!!` University (as a part-time backend developer)
+- 🔭 I’m currently working on coding squash
 - 🔫 I'm Also working on [senior project](https://github.com/Transmatter) on helping viusally impaired surf the internet.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
 - 🎓 4th year SE student (CMU/CAMT)
-- ✏ now I am learning and practicing 
+- ✏ now I am learning and practicing
 
 ``` 
 
