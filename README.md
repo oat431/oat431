@@ -1,7 +1,7 @@
 ### Hi there I'm Oat 🌷
 
 - ⚒  Full-Stack Developer (mostly working on backend) 
-- 🔭 I’m currently working `nothing` just regular partime backend
+- 🔭 I’m currently at internship state and also working as freelence partime backend
 - 🔫 I complete my university with this [senior project](https://github.com/Transmatter) which helping viusally impaired surf the internet.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
 - 🎓 4th year SE student (CMU/CAMT)
