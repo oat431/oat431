@@ -11,7 +11,7 @@
 
   🛠 Advance Software Developement, ⚓ K8S, 🎨 UI, 📝 UX,
   
-  ❄ SOLID priciple, 🧹 clean coding, 🤵 clean coder,
+  🧹 clean coding, 🤵 clean coder, 🏨 clean architecture
   
   🌵 Flexible Software Design
   
