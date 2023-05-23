@@ -4,7 +4,7 @@
 - 🔭 I’m currently in the interview hell
 - 🔫 I completed my university with this [senior project](https://github.com/Transmatter) which helping viusally impaired surf the internet.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
-- 🎓 Graduate from CMU/CAMT in SE major (Graduate Year 2023)
+- 🎓 Graduate from CMU/CAMT in SE major (Graduate Year: 2023)
 - ✏ now I am learning and practicing
 
 ``` 
