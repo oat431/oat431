@@ -1,7 +1,7 @@
 ### Hi there I'm Oat 🌷
 
 - ⚒  Software Engineer (mostly working on backend, and architecture design) 
-- 🔭 I’m currently in the interview hell
+- 🔭 I’m currently decide the offer from the company
 - 🔫 I completed my university with this [senior project](https://github.com/Transmatter) which helping viusally impaired surf the internet.
 - ⚡ Fun fact: I really love Coffee ☕, and Green tea 🍵
 - 🎓 Graduate from CMU/CAMT in SE major (Graduate Year: 2023)
