@@ -11,7 +11,7 @@
 
   🛠 Advance Software Developement, ⚓ K8S, 🎨 UI, 📝 UX,
   
-  🧹 clean code & clean architecture, 🧪 testing & qa (manual)
+  🧹 clean code & clean architecture, 🧪 testing & qa
   
   🌵 Flexible Software Design
   
