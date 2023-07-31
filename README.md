@@ -1,4 +1,4 @@
-### Hi there I'm Oat 🌷
+### Hi there I'm Oat (Oralita) 🌷
 
 - ⚒  A Software Engineer (mostly working on backend, database and architecture design) 
 - 🔭 I’m currently working on very big company in Thailand (remotely)
