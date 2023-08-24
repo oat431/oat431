@@ -33,13 +33,13 @@
 
 ```
 
-📃Origami, 🧛‍♂️Fantasy story teller, ❓Questioning, 
+📃 Origami, 🧛‍♂️ Fantasy story teller, ❓ Questioning, 
 
-🎶Indy Music Listener, 🎼Alternative Rock Music Listener,
+🎶 Indy Music Listener, 🎼 Alternative Rock Music Listener,
 
-🎭Meme Enjoyer, ⚖Politics Talking, 
+🎭 Meme Enjoyer, ⚖ Politics Talking, 
 
-🐱‍🏍Dank Story Talking, ☕Coffee enjoyer, 📜Explainer
+🐱‍🏍 Dank Story Talking, ☕ Coffee enjoyer, 📜 Explainer
 
 💸 Caplitalism Realization, 🎃 Existentialism Thinker
 
