@@ -13,7 +13,7 @@
   
   🧹 clean code & clean architecture, 🧪 testing & qa
   
-  🌵 Flexible Software Design
+  🌵 Flexible Software Design, 🐘 database
   
 ```
 
