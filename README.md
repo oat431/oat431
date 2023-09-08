@@ -53,6 +53,9 @@
 
 ![daily status](https://github-readme-streak-stats.herokuapp.com/?user=oat431&theme=vue)
 
+#### My favorite quote
+
+if you want to accomplish something in the world, idealism is not enough. You need to choose a method that works to achieve the goal - Richard Stallman
 
 #### Nice to meet ya 🧐
 ---
