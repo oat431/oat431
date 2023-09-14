@@ -57,7 +57,7 @@
 
 if you want to accomplish something in the world, idealism is not enough. You need to choose a method that works to achieve the goal - Richard Stallman
 
-#### Coding Journey
+#### Software Engineering Journey
 
 ```mermaid
 timeline
@@ -69,17 +69,17 @@ timeline
     2018 : Learning all the core concept of the programming
          : Interested in Java
          : Interested in OOP
-         : Interested in web development
-         : Achieve the web development competition using PHP (got 2nd)
+         : Interested in Web Development
+         : Achieve the web development competition using PHP (got 1st runner up reward)
     2019 : Admission to CAMT/CMU in Software Engineering major
          : Not quite a good student on Software Engineering major, but trying to be a good human begin
-    2020 : Learn more about Database Concept, Advance Development Concenpt
+    2020 : Learn more about Database Concept, Advance Software Development Concenpt
          : Got first Software Engineering Job
          : Discover Flutter Framework
          : So got to create a mobile application using Flutter
     2021 : Discover Spring-boot Framework, Vue Frameowork
          : Join CMU TRP
-         : responsibility on CMU TRP ERP program using Spring-boot
+         : responsibility on CMU TRP ERP program as a backend developer using Spring-boot
     2022 : Doing a senior project on the whole 1st semeter
          : Got the most popular vote from the project presentation day
          : Join the Mental Dee Dee Team
@@ -90,7 +90,7 @@ timeline
     in the future : and the day goes on
 ```
 
-#### Nice to meet ya 🧐
+#### Nice to meet ya 🤗
 ---
 
 ![](https://hit.yhype.me/github/profile?user_id=54722120)
