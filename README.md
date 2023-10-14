@@ -63,13 +63,13 @@ timeline
     title Sahachan Software Engineering Journey
     2017 : POSN Computer
          : First time joining the programming world
-         : learning c/c++ on this point
-         : knowing basic algorithm like finding a maximum, sorting
-    2018 : Learning all the core concept of the programming
-         : Interested in Java
-         : Interested in OOP
-         : Interested in Web Development
-         : Achieve the web development competition using PHP (got 1st runner up reward)
+         : Learned first programming language which is c/c++
+         : Learned basic algorithm (searching, sorting, string manipulation)
+    2018 : Learned the core concept of the programming
+         : Learned Java programming
+         : Learned OOP concept
+         : Joining into the Web Development
+         : Achieved the web development competition using PHP (got 1st runner up)
     2019 : Admission to CAMT/CMU in Software Engineering major
          : Not quite a good student on Software Engineering major, but trying to be a good human begin
     2020 : Learn more about Database Concept, Advance Software Development Concenpt
