@@ -9,11 +9,11 @@
 
 ``` 
 
-  🛠 Advance Software Developement, ⚓ K8S, 🎨 UI, 📝 UX,
+  🛠 Microservice Developement, ⚓ DevOps, 🎨 UI, 📝 UX,
   
-  🧹 clean code & clean architecture, 🧪 testing & qa
+  🧹 Clean code & Clean architecture, 🧪 testing & qa
   
-  🌵 Flexible Software Design, 🐘 database, 🔢 discrete math
+  🌵 Flexible Software Design, 🗄️ database, 🔢 discrete math
   
 ```
 
