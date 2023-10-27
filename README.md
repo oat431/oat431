@@ -11,7 +11,7 @@
 
   🛠 Microservice Developement, ⚓ DevOps, 🎨 UI, 📝 UX,
   
-  🧹 Clean code & Clean architecture, 🧪 testing & qa
+  🧹 Clean code & Clean architecture, 🧪 testing & qa, 🟫 AWS
   
   🌵 Flexible Software Design, 🗄️ database, 🔢 discrete math
   
