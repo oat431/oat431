@@ -1,6 +1,6 @@
 ### Hi there I'm Oat (Oralita) 🌷
 
-- ⚒  A Software Engineer (mostly working on backend, database and architecture design) 
+- ⚒  A Software Engineer (mostly working on backend, database, system analysis and architecture design) 
 - 🔭 I’m currently working on large company in Thailand (100% work from home)
 - 🔫 I completed my university with this [senior project](https://github.com/Transmatter) which helping viusally impaired surf the internet.
 - ⚡ Fun fact: I really love Coffee ☕ and Green tea 🍵
