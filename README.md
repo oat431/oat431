@@ -2,7 +2,7 @@
 
 - ⚒  A Software Engineer (mostly working on backend, database, system analysis and architecture design) 
 - 🔭 I’m currently working on large company in Thailand (100% work from home)
-- 🔫 I completed my university with this [senior project](https://github.com/Transmatter) which helping viusally impaired surf the internet.
+- 🔫 I completed my university with this [senior project](https://github.com/Transmatter) which helping viusal impaired read internet contents by our ux pattern.
 - ⚡ Fun fact: I really love Coffee ☕ and Green tea 🍵
 - 🎓 Graduate from CMU/CAMT in SE major (Graduate Year: 2023)
 - ✏ now I am learning and practicing
