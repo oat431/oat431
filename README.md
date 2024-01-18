@@ -14,6 +14,8 @@
   🧹 Clean code & Clean architecture, 🧪 testing & qa, 🟫 AWS
   
   🌵 Flexible Software Design, 🗄️ database, 🔢 discrete math
+
+  🌎 project management
   
 ```
 
