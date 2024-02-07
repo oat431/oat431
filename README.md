@@ -15,7 +15,7 @@
   
   🌵 Flexible Software Design, 🗄️ database, 🔢 discrete math
 
-  🌎 project management
+  🌎 project management, 🟦 kafka
   
 ```
 
