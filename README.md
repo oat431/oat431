@@ -88,6 +88,13 @@ timeline
          : Join Agoda Internship program on the 2nd semester
     2023 : Graduate from CAMT/CMU with 1st horror class
          : Join the Gosoft th as Software Engineer
+         : Lead the Backend team on a Refactor Legacy Gosoft warehouse project
+         : Join a SCFC developer team (part time backend, SA)
+    2024 : Join CMUAL developer team (part time backend)
+         : Complete Refactor Legacy Gosoft warehouse project
+         : Runing my first backend development course
+    2025 : Join Gosoft external delivery software
+         : .....
     in the future : and the day goes on
 ```
 
