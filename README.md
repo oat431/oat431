@@ -93,7 +93,7 @@ timeline
     2024 : Join CMUAL developer team (part time backend)
          : Complete Refactor Legacy Gosoft warehouse project
          : Runing my first backend development course
-    2025 : Join Gosoft external delivery software
+    2025 : Join Gosoft external delivery software project
          : .....
     in the future : and the day goes on
 ```
