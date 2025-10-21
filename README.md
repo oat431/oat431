@@ -60,9 +60,10 @@
 
 #### Software Engineering Journey
 
+Before Academic
 ```mermaid
 timeline
-    title Sahachan Software Engineering Journey
+    title Sahachan Software Engineering Journey (Pre Acadamic)
     2017 : POSN Computer
          : First time joining the programming world
          : Learned first programming language which is c/c++
@@ -73,7 +74,14 @@ timeline
          : Joining into the Web Development
          : Achieved the web development competition using PHP (got 1st runner up)
     2019 : Admission to CAMT/CMU in Software Engineering major
-         : Not quite a good student on Software Engineering major, but trying to be a good human begin
+```
+
+Academic Period
+```mermaid
+timeline
+    title Sahachan Software Engineering Journey (Acadamic Period)
+    2019 : Not quite a good student on Software Engineering major, but trying to be a good human begin
+         : Learn more about what software engineer did in the real world
     2020 : Learn more about Database Concept, Advance Software Development Concenpt
          : Got first Software Engineering Job
          : Discover Flutter Framework
@@ -87,13 +95,21 @@ timeline
          : Responsibility on the whole backend system using Spring-boot
          : Join Agoda Internship program on the 2nd semester
     2023 : Graduate from CAMT/CMU with 1st horror class
-         : Join the Gosoft th as Software Engineer
+```
+
+Software Engineering Career
+```mermaid
+timeline
+    title Sahachan Software Engineering Journey (Software Engineering Career)
+    2023 : Join the Gosoft th as Software Engineer
          : Lead the Backend team on a Refactor Legacy Gosoft warehouse project
          : Join a SCFC developer team (part time backend, SA)
     2024 : Join CMUAL developer team (part time backend)
          : Complete Refactor Legacy Gosoft warehouse project
          : Runing my first backend development course
     2025 : Join Gosoft external delivery software project
+         : Join Gosoft Database Migration proof of concept
+         : Join Gosoft Pre Refactor planning and documenting project
          : .....
     in the future : and the day goes on
 ```
