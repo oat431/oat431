@@ -46,6 +46,7 @@
 
 ```
 
+<!--
 #### Here my fake trophy that look nice 🏆
 
 ![tropy](https://github-profile-trophy.vercel.app/?username=oat431&column=4&margin-w=15&margin-h=15)
@@ -53,10 +54,13 @@
 #### And here my daily Status 🐾
 
 ![daily status](https://github-readme-streak-stats.herokuapp.com/?user=oat431&theme=vue)
+-->
 
 #### My favorite quote
 
 ![strall man quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=If%20you%20want%20to%20accomplish%20something%20in%20the%20world,%20idealism%20is%20not%20enough.%20You%20need%20to%20choose%20a%20method%20that%20works%20to%20achieve%20the%20goal&author=Richard%20Stallman)
+
+<!-- 
 
 #### Software Engineering Journey
 
@@ -113,6 +117,7 @@ timeline
          : .....
     in the future : and the day goes on
 ```
+ -->
 
 #### Nice to meet ya 🤗
 ---
