@@ -2,20 +2,18 @@
 
 - ⚒  A Software Engineer (mostly working on backend, database, system analysis and architecture design) 
 - 🔭 I’m currently working fulltimes as a `software engineer` (backend system)
-- 🔫 I completed my university with this [senior project](https://github.com/Transmatter) which helping viusal impaired access to the internet contents uging our designed ux pattern.
+- 🔫 I completed my university with this [senior project](https://github.com/Transmatter) which helping viusal impaired access to the internet contents using our designed ux pattern.
 - ⚡ Fun fact: I really love medium roast espresso ☕ and standard matcha 🍵
 - 🎓 Graduate from CMU/CAMT in SE major (Graduate Year: 2023)
 - ✏ now I am learning and practicing
 
 ``` 
 
-  🛠 Microservice Developement, ⚓ DevOps, 🎨 UI, 📝 UX,
-  
-  🧹 Clean code & Clean architecture, 🧪 testing & qa, 🟫 AWS
-  
-  🌵 Flexible Software Design, 🗄️ database, 🔢 discrete math
+  🛠 Microservice Practices, ⚓ DevOps For All
 
-  🌎 project management, 🟦 kafka
+  🧪 Clean Testing, 🗄️ Database Methodology, 
+  
+  🔢 Engineering Mathematic
   
 ```
 
