@@ -92,21 +92,25 @@ At Gosoft Thailand building backend systems for CP All (the engine behind 7-Elev
 
 ## 📊 Adventurer's Stats
 
-<picture>
+<!--<picture>
   <source
     srcset="https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=default&hide_border=true&count_private=true" />
-</picture>
+</picture>-->
+![status](https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-<picture>
+---
+
+<!--<picture>
   <source
     srcset="https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=tokyonight&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=default&hide_border=true" />
-</picture>
+</picture>-->
+![top language](https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=default&hide_border=true)
 
 ## 🐾 Visitor Scroll
 
