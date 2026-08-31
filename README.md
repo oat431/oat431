@@ -53,7 +53,8 @@
 **Certifications & Scrolls:**
 - HackerRank SQL (Advanced) · Java (Intermediate)
 - CMU-eGrad English B2 (Upper-Intermediate)
-- Codegoda 2023 · Health Data Science Hackathon 2023
+- Codegoda 2023
+- Health Data Science Hackathon 2021
 
 **Traits & Quirks:**
 🧛‍♂️ Fantasy Storyteller · 📃 Origami · 🎭 Meme Enjoyer · ☕ Coffee Enthusiast
