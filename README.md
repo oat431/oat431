@@ -90,6 +90,24 @@ At Gosoft Thailand building backend systems for CP All (the engine behind 7-Elev
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+## 📊 Adventurer's Stats
+
+<picture>
+  <source
+    srcset="https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=default&hide_border=true" />
+</picture>
+
 ## 🐾 Visitor Scroll
 
 ![](https://komarev.com/ghpvc/?username=oat431&style=flat-square)
