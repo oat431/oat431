@@ -101,8 +101,6 @@ At Gosoft Thailand building backend systems for CP All (the engine behind 7-Elev
 </picture>-->
 ![status](https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=default&hide_border=true&count_private=true)
 
----
-
 <!--<picture>
   <source
     srcset="https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=tokyonight&hide_border=true"
@@ -110,7 +108,7 @@ At Gosoft Thailand building backend systems for CP All (the engine behind 7-Elev
   />
   <img src="https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=default&hide_border=true" />
 </picture>-->
-![top language](https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=default&hide_border=true)
+<!--![top language](https://ghstatus.panomete.com/api/top-langs?username=oat431&layout=compact&theme=default&hide_border=true)-->
 
 ## 🐾 Visitor Scroll
 
