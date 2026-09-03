@@ -1,10 +1,11 @@
 <div align="center">
 
-# ⚔️ Sahachan "Oralita" Tippimwong
+# ⚔️ Oralita
 
 ### *Software Engineer · Full Stack · Level 3*
 
-> *"If you want to accomplish something in the world, idealism is not enough. You need to choose a method that works."* — Richard Stallman
+> *"If you want to accomplish something in the world, idealism is not enough. You need to choose a method that works."*
+— Richard Stallman
 
 </div>
 
@@ -14,15 +15,15 @@
 
 | 🎭 Attribute | 📝 Value |
 |:---|:---|
-| **Class** | Software Engineer (Full Stack) |
-| **Race** | Human — CMU/CAMT lineage |
-| **Education** | B.S. Software Engineering — CMU / CAMT (First-Class Honors, 2023) |
-| **Background** | Artisan (Backend Specialization) |
+| **Class** | Software Engineer |
+| **Race** | Homo Sapiens |
+| **School** |  CMU / CAMT / SE(Grad 2023) |
+| **Background** | Artisan |
 | **Alignment** | Chaotic Good — coffee-fueled, meme-capable |
-| **Current Party** | Gosoft Thailand (CP All) |
-| **Home Base** | Terra, Siam |
+| **Current Party** | Gosoft Co., Ltd. |
+| **Home** | Terra, Siam |
 | **Familiar** | ☕ Medium Roast Espresso · 🍵 Standard Matcha |
-| **Languages** | 🇹🇭 Thai (Native) · 🇬🇧 English (B2 — CMU-eGrad) |
+| **Languages** | Thai (Native) · English (B2) |
 
 ## 🎲 Ability Scores
 
@@ -92,14 +93,13 @@ At Gosoft Thailand building backend systems for CP All (the engine behind 7-Elev
 
 ## 📊 Adventurer's Stats
 
-<!--<picture>
+<picture>
   <source
     srcset="https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=default&hide_border=true&count_private=true" />
-</picture>-->
-![status](https://ghstatus.panomete.com/api?username=oat431&show_icons=true&theme=default&hide_border=true&count_private=true)
+</picture>
 
 <!--<picture>
   <source
