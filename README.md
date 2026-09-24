@@ -20,8 +20,8 @@
 | **School** |  CMU / CAMT / SE(Grad 2023) |
 | **Background** | Artisan |
 | **Alignment** | Chaotic Good — coffee-fueled, meme-capable |
-| **Current Party** | Gosoft Co., Ltd. |
-| **Home** | Terra, Siam |
+| **Current Party** | - |
+| **Home** | Siam, Terra |
 | **Familiar** | ☕ Medium Roast Espresso · 🍵 Standard Matcha |
 | **Languages** | Thai (Native) · English (B2) |
 
