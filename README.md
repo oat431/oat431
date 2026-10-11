@@ -63,8 +63,7 @@
 ⚖️ Politics Talking · 💸 Capitalism Realization · 📜 Explainer · ❓ Questioning
 
 ## 🎯 Current Quest
-
-At Gosoft Thailand building backend systems for CP All (the engine behind 7-Eleven Thailand). I push for 90%+ test coverage on everything I touch and spend a good chunk of my week mentoring juniors. When I'm not shipping code I'm studying system design, running a backend dev course, or hunting for my next quest — health, insurance, finance, or anywhere with a good spec and better coffee.
+Waiting for Another Party
 
 ---
 
