@@ -2,7 +2,7 @@
 
 # ⚔️ Oralita
 
-### *Software Engineer · Full Stack · Level 3*
+### *Software Engineer · Level 3*
 
 > *"If you want to accomplish something in the world, idealism is not enough. You need to choose a method that works."*
 — Richard Stallman
@@ -63,7 +63,9 @@
 ⚖️ Politics Talking · 💸 Capitalism Realization · 📜 Explainer · ❓ Questioning
 
 ## 🎯 Current Quest
-Waiting for Another Party
+ITOPPLUS Co., Ltd. - AI Engineer
+- Patch mindset as AI Engineer based on Software Engineer
+- Learn to work in Lean Development
 
 ---
 
