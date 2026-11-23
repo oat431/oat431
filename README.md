@@ -20,7 +20,7 @@
 | **School** |  CMU / CAMT / SE(Grad 2023) |
 | **Background** | Artisan |
 | **Alignment** | Chaotic Good — coffee-fueled, meme-capable |
-| **Current Party** | - |
+| **Current Party** | ITOPPLUS Co., Ltd. |
 | **Home** | Siam, Terra |
 | **Familiar** | ☕ Medium Roast Espresso · 🍵 Standard Matcha |
 | **Languages** | Thai (Native) · English (B2) |
