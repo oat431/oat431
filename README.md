@@ -66,6 +66,7 @@
 ITOPPLUS Co., Ltd. - AI Engineer
 - Patch mindset as AI Engineer based on Software Engineer
 - Learn to work in Lean Development
+- Try to Understand Digital Marketing Industry
 
 ---
 
